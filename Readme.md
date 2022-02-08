@@ -1,4 +1,4 @@
-# REproductor de musica
+# Reproductor de musica
 
 Creado con HTML, CSS , JS 
 
